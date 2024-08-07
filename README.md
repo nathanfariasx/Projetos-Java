@@ -1,2 +1,2 @@
-# Projetos-Biblioteca
+# Projeto-Biblioteca
 Projeto feito em Java 
