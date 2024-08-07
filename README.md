@@ -1,2 +1,2 @@
-# Projetos-Java
-Projetos feitos na linguagem Java
+# Projetos-Biblioteca
+Projeto feito em Java 
